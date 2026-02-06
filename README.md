@@ -1,2 +1,2 @@
 Task 1:
-https://kin-zala.github.io/data-visualization-bioinformatics/Data_vizualisation.html
+https://kin-zala.github.io/data-visualization-bioinformatics/Data_visualization.html
