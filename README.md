@@ -1,6 +1,7 @@
 Task 1:
 https://kin-zala.github.io/data-visualization-bioinformatics/Data_visualization.html
 1. Visualization Exercise 1
+   
 Three alternative visualizations of the same artificial data shall be re-created. All three visualizations show the same fictitious genomic annotations together with fictitious RNA binding protein data. The visualizations are an example for RNA binding protein signals as well as the genomic annotations. Recreate each of the shown figures. Two different datasets are provided for this task:
 
 10_project_data_annotations.csv
