@@ -31,8 +31,11 @@ This repository contains exercises and code for visualizing **RNA binding protei
 
 1. Clone the repository:
 ```bash
-```
 git clone https://github.com/<your-username>/genomic-visualization-rna-binding-proteins.git
+```
+
 
 ## The output
-![image-alt](https://github.com/Kin-zala/data-visualization-bioinformatics/blob/b20c3a19f060d32a2b914a4040d2e03b5d684eb1/1.1%20Version_1.png)
+![image-alt](https://github.com/Kin-zala/genomic-visualization-rna-binding-proteins/blob/fbed4dbc5ba7cd6628edde082c0cb2427b9cf107/Version_A_visualization.png)
+![image-alt](https://github.com/Kin-zala/genomic-visualization-rna-binding-proteins/blob/fbed4dbc5ba7cd6628edde082c0cb2427b9cf107/Version_B_visualization.png)
+![image-alt](https://github.com/Kin-zala/genomic-visualization-rna-binding-proteins/blob/fbed4dbc5ba7cd6628edde082c0cb2427b9cf107/Version_C_visualization.png)
